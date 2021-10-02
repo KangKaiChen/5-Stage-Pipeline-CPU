@@ -1,0 +1,162 @@
+{C:/Users/kevin/Desktop/final code/tb_SingleCycle.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/tb_SingleCycle.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} {C:/Users/kevin/Desktop/final code/MEM_WB.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/MEM_WB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/kevin/Desktop/final code/mux2jr.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/mux2jr.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2jr
+
+Top level modules:
+	mux2jr
+
+} {} {}} {C:/Users/kevin/Desktop/final code/abit.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/abit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module abit
+
+Top level modules:
+	abit
+
+} {} {}} {C:/Users/kevin/Desktop/final code/ID_EX.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/ID_EX.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/kevin/Desktop/final code/mips_single.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/mips_single.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} {C:/Users/kevin/Desktop/final code/alu.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/kevin/Desktop/final code/control_single.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/control_single.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} {C:/Users/kevin/Desktop/final code/reg32.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/reg32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} {C:/Users/kevin/Desktop/final code/EX_MEM.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/EX_MEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {C:/Users/kevin/Desktop/final code/IF_ID.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/IF_ID.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/kevin/Desktop/final code/mux2.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/mux2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {C:/Users/kevin/Desktop/final code/WAIT.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/WAIT.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module WAIT
+
+Top level modules:
+	WAIT
+
+} {} {}} {C:/Users/kevin/Desktop/final code/reg_file.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/reg_file.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} {C:/Users/kevin/Desktop/final code/TotalALU.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/TotalALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TotalALU
+
+Top level modules:
+	TotalALU
+
+} {} {}} {C:/Users/kevin/Desktop/final code/add32.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/add32.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} {C:/Users/kevin/Desktop/final code/FA.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/FA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/kevin/Desktop/final code/sign extend.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/kevin/Desktop/final code/memory.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {C:/Users/kevin/Desktop/final code/Shifter123.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/Shifter123.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} {C:/Users/kevin/Desktop/final code/instr_split.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/instr_split.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/kevin/Desktop/final code/alu_ctl.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/alu_ctl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} {C:/Users/kevin/Desktop/final code/mux2X1.v} {1 {vlog -work work -stats=none {C:/Users/kevin/Desktop/final code/mux2X1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}}
